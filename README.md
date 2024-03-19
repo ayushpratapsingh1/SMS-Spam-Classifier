@@ -14,5 +14,5 @@ Key Components and Parameters:
 - Pickle: Used for serializing and deserializing Python objects to save trained models.
 
 
-> Installations in vscode terminal: scikit-learn,nltk,streamlit.<br>
-> For webview we used streamlit.
+> Installations in VScode terminal: scikit-learn,nltk,streamlit.<br>
+> For webview, we used streamlit.
