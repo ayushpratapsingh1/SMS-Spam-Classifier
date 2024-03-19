@@ -1,6 +1,6 @@
 # SMS-Spam-Classifier
 SMS Spam Classifier: Identifies spam vs. ham messages using machine learning techniques.
-SMS Spam Classifier
+<br>
 In the SMS Spam Classifier project, various machine learning algorithms were employed, including Bernoulli Naive Bayes, Multinomial Naive Bayes, Gaussian Naive Bayes, Linear Regression, Adaboost, and Random Forest. Among these algorithms, Multinomial Naive Bayes demonstrated exceptional performance with an accuracy of 97%, surpassing the other methods.
 Steps in the SMS Spam Classifier Project:
 - Data Preprocessing: Cleaning and preparing the SMS dataset for analysis.
